@@ -5,7 +5,7 @@
 Un **environnement virtuel** est un espace isolé qui permet de gérer des dépendances de projets spécifiques sans interférer
 avec d'autres projets ou avec l'environnement Python global de votre système. 
 
-## Pourquoi utiliser un environnement virtuel ?
+## Pourquoi utiliser un environnement virtuel ?.
 - **Isolation** : Éviter les conflits de versions entre les packages utilisées dans différents projets.
 - **Facilité de gestion** : Travailler avec des dépendances spécifiques pour chaque projet.
 - **Portabilité** : Permettre aux autres développeurs de répliquer facilement l'environnement de votre projet et ayant
